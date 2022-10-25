@@ -1,0 +1,42 @@
+
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: "Montserrat" sans-serif;
+}
+.description-text{
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  background-color: #FF6464;
+}
+p{
+  color:#fff;
+}
+
+h3 {
+  color: #fff;
+}
+/* Title */
+#title{
+  font-family:  Montserrat-black;
+  padding: 7% 15%;
+  text-align: right;
+  margin: 3%;
+  line-height: 1.5;
+  background-color: #ff4c68;
+}
+.title-text{
+  font-size: 1.5rem;
+  color: #fff;
+  text-align:center;
+
+}
+.title-img{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.feature-img {
+  width: 20%;
+}
